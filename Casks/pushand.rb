@@ -1,6 +1,6 @@
 cask "pushand" do
-  version "1.0.20"
-  sha256 "1d0db5235d3cc5d350eac161d96452d4968ed739cb692f6f7ddf4b9b9d316b62"
+  version "1.0.21"
+  sha256 "2c894dd243ea9c0ce34323234f68aca28699667fb7faa0e4da0dc8ac7004b326"
 
   url "https://downloads.pushand.com/Pushand-#{version}.dmg"
   name "push&"
